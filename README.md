@@ -3,7 +3,7 @@ GameHub
       Discover and explore video games by genre, platform, and more. Search, filter, and browse with a responsive UI and light/dark themes.
 
 
-Live demo: 
+Live demo: https://game-hub-id6k.vercel.app/
 
 Tech stack
 
